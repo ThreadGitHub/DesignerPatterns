@@ -4,6 +4,6 @@
 
 目前学习了的设计模式列表(代码中示例编写对应)：
 
-- 工厂设计模式 (abstractFactoryPattern)
-- 抽象工厂设计模式 (factoryPattern)
+- 抽象工厂设计模式 (abstractFactoryPattern)
+- 工厂设计模式 (factoryPattern)
 
