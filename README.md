@@ -6,4 +6,5 @@
 
 - 抽象工厂设计模式 (abstractFactoryPattern)
 - 工厂设计模式 (factoryPattern)
+- 命令模式(commandPattern)
 
